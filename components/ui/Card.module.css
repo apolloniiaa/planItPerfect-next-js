@@ -1,0 +1,6 @@
+.card {
+  border-radius: 6px;
+  box-shadow: 0 8px 32px 0 rgb(21 1 25 / 77%);
+  backdrop-filter: blur(0.5px);
+  -webkit-backdrop-filter: blur(0.5px);
+}
